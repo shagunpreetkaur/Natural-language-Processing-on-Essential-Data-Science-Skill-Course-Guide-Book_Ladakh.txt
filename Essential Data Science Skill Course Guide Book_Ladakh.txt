@@ -1,0 +1,108 @@
+﻿Essential Data Science Skill Course Guide Book
+The course guidebook is prepared to serve as an index document and step-by-step guide for recorded lectures, working notebooks, assignments, and datasets of each module.
+
+
+
+
+General Instructions:
+Following are the general instructions for the course. Please go through them before starting the course:
+
+
+1. Join the Slack workspace link for easy communications and course resource-sharing purposes. 
+
+
+2. All modules are designed and delivered in the python programming language. You can use GoogleColab via the  Link or install Anaconda from this link (https://www.anaconda.com/) to run your notebooks/code files.
+
+
+3. All assignments will be submitted through the google form on this (link). In case of any issues, you can send them to erum@omdena.com.
+
+
+4. You will get a link to the google drive folder every week that contains resources, including recorded video lectures, relevant practical python notebook, assignment notebook, and datasets. Download the respective folder of the week and check the instructions given under each week section of the document to start working on the tutorials. 
+5. Data Science Glossary can be found on these two Links
+   1.  Data Science Glossary: Definitions for Common Data Science Terms by Datacamp
+   2. Data Science Terms and Jargon: A Glossary by Data Quest
+
+
+6. Essential Data Science Skills Course Concept Book. At this link, you can find detailed concepts of the content of each chapter with python examples and further links related 
+Module Wise Instructions
+Week_1(Module 1): 
+        We will learn “Basic Python Libraries for Data Science Applications” in the first module.  A detailed description of each file is given below:
+Numpy: Numpy is a machine learning library used to create and manipulate the numeric dataset. We have the following resources to learn NumPy.  
+Why Numpy: Because all processing (Model) is implemented on numeric datasets only. So we need to store data in arrays(NumPy)
+* Videos Lecture: There are two video-recorded files (Numpy_1.mp4  and Numpy_2.mp4) and a notebook (1_numpy.ipynb) for practice. If there is an issue with the Numpy_1.mp4 you can check the recordings from this link. To start with the first tutorial, open the Numpy_1 recording file and (1_numpy.ipynb) notebook to follow the instructions along with the recorded video. If you need help understanding any of the concepts you can post them in Slack or note it for clarification during office hours.
+Pandas: Panda is another machine learning library used to create and manipulate data frames in python language. 
+* Videos Lecture: You can see a video recorded file with Pandas_1.mp4, open the file and follow the code on this notebook 2_pandas.ipynb. You can always note down the problems/concepts that need more clarity.  We can discuss them during office hours every week.
+* Assignment: 
+* The assignment((Pandas_Assignment.ipynb)) is to apply learned concepts from the Panada library to the carbon footprint of different foods datasets.
+*  If this link does not work, please send it to erum@2_pandas.ipynbomdena.com
+
+
+Exploratory Data Analysis 
+
+
+We will cover the “Exploratory Data Analysis” in the second module. Details about each file shared are given below: 
+* Videos Lecture: You will see two video-recorded files (EDA_1.mp4 and EDA_2.mp4) and a python notebook (Exploratory Data Analysis and Feature Engineering. ipynb). To start with the module, open the first video recorded file naming EDA_1.mp4 and follow the instruction along with the python notebook “Exploratory Data Analysis and Feature Engineering. Ipynb”. 
+* Dataset: The following datasets are required to work with  (Exploratory Data Analysis and Feature Engineering. ipynb)(Training, Testing) 
+
+
+
+
+Visualization: 
+We will cover  “Visualization” in this module. Details about each file shared are given below: 
+* Videos Lecture: You will see the video recorded file (Data_Visualization.mp4) and two python notebooks (Visualisation. ipynb) with the dataset (Canada.xlsx). To start with the module, open the video-recorded file named Data_Visualization.mp4 and follow the instruction along with the python notebook Visualization. ipynb. Details on the topic are already added in the python file to keep all content in the same place.
+* Additional lecture: Another file named: python-data-visualizations. ipynb
+* Assignment: Go through the tutorials to learn the concepts you can show the meaningful patterns from your project dataset. 
+Project Presentation:  You need to submit PowerPoint Presentation on Visualizations please add a link to the source file as well in the presentation.  Submit on this link[a]
+Deadline: 21st March 2022
+
+
+Machine Learning: 
+
+
+* Machine Learning Algorithms Application: Recording_1 and Recoding_2
+* Link to notebooks: Link
+* Link to datasets:  link
+
+
+Machine Learning Algorithms Application in Natural Language Processing
+
+
+* Machine Learning Algorithms Application in Natural Language Processing: Recording_1
+* Link to notebooks: Link
+* Link to datasets:  link
+
+
+
+
+
+
+
+
+* Visualization:
+* Machine Learning 
+   * Project 1. Submission: Guidelines will be updated on this link 
+   * Submission Link for assignment last date: 26th April 2023
+* NLP
+
+
+   * Project 2 Submission : Guidelines will be updated on this link 
+* Computer Vision
+   * Project 3 Submission 
+
+
+Local Chapter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[a]link please
